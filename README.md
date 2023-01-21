@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Georgy Lepsaya
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning Typescript, Next.js, C# and .NET
+- 🌱 I’m currently learning Typescript, Next.js
 - 📫 How to reach me: Telegram @lv_george
 
 <!---
