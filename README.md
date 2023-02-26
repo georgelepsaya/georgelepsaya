@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Georgy Lepsaya
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning backend technologies: PHP and Laravel, Django
+- 🌱 I’m currently learning backend technologies
 - 📫 How to reach me: Telegram @lv_george
 
 <!---
