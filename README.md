@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Georgy Lepsaya
-- 👀 I’m interested in Fullstack Development
-- ✨ Currently learning: FastAPI, Laravel
 - 📫 How to reach me: Telegram @lv_george
 
 <!---
